@@ -1,4 +1,4 @@
 ELEN4075
 ========
 
-CPD Class Group3 Collaboration Repository
+CPD Class Individuals Collaboration Repository
